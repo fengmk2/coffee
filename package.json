@@ -4,7 +4,7 @@
   "description": "Test command line on nodejs",
   "main": "index.js",
   "dependencies": {
-    "debug": "~2.2.0",
+    "debug": "~2.6.7",
     "childprocess": "~2.0.0"
   },
   "devDependencies": {
